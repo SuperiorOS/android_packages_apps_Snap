@@ -485,7 +485,7 @@
     <string name="pref_camera2_scene_mode_sports_instructional_content">スポーツモードはより良いスポーツやアクション写真を撮ることができます。\n\n写真には効果がありますがビデオ撮影には効果はありません。</string>
     <string name="pref_camera2_scene_mode_hdr_instructional_content">暗いシーンや逆行のようなシーンが混在しているときは、最高の画質を得るために「HDR」を選択します。</string>
     <string name="pref_camera2_scene_mode_best_photo_instructional_content">10枚の写真を連写しベストな1枚を選べます</string>
-    <string name="pref_camera2_scene_mode_chroma_flash_instructional_content">ChromaFlash を使用するとカメラのフラッシュが写真の全ての人物やオブジェクトに合わせて最適化されます。 この機能はバックカメラにのみ適用されます。</string>
+    <string name="pref_camera2_scene_mode_chroma_flash_instructional_content">ChromaFlash を使用するとカメラのフラッシュが写真の全ての人物やオブジェクトに合わせて最適化されます。この機能は背面カメラにのみ適用されます。</string>
     <string name="pref_camera2_scene_mode_sharp_photo_instructional_content">シャープネスはシーン内の動きや手の震えによるブレを軽減します</string>
     <string name="pref_camera2_scene_mode_tracking_focus_instructional_content">写真やビデオの撮影中に選択した人や物体を追跡したりピントを合わせたりすることができます。開始するには追跡する人物または物体に四角を合わせます。</string>
     <string name="pref_camera2_scene_mode_time_lapse_instructional_content">低速度撮影 (コマ送り) モードでは録画中の長時間のビデオを短時間のビデオに変換できます。この効果は動画には適用されますが、写真には適用されません。</string>

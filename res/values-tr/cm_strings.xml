@@ -26,12 +26,12 @@
     <string name="pref_camera_megapixel_format">(<xliff:g id="ratio" example="16:9">%1$s</xliff:g>) <xliff:g id="pixels">%2$1.1f</xliff:g> megapiksel</string>
     <!-- Settings screen, scene mode -->
     <string name="pref_camera_scenemode_entry_antimotionblur">Hareket bulanıklığı azaltma</string>
-    <string name="pref_camera_scenemode_entry_aqua">Deniz Mavisi</string>
+    <string name="pref_camera_scenemode_entry_aqua">Deniz mavisi</string>
     <string name="pref_camera_scenemode_entry_ar">Artırılmış gerçeklik</string>
     <string name="pref_camera_scenemode_entry_asd">En iyi poz</string>
     <string name="pref_camera_scenemode_entry_baby">Bebek</string>
     <string name="pref_camera_scenemode_entry_backgroundblur">Arkaplan bulanıklığı</string>
-    <string name="pref_camera_scenemode_entry_backlight">Arka aydınlatma</string>
+    <string name="pref_camera_scenemode_entry_backlight">Arka ışık</string>
     <string name="pref_camera_scenemode_entry_backlightportrait">Arka ışık portre</string>
     <string name="pref_camera_scenemode_entry_barcode">Barkod</string>
     <string name="pref_camera_scenemode_entry_beach">Plaj</string>
@@ -103,6 +103,6 @@
     <string name="pref_camera_shutter_speed_title">Deklanşör hızı</string>
     <!-- Advanced options -->
     <string name="developer_menu_enabled">Gelişmiş kamera seçeneklerini etkinleştirdiniz</string>
-    <string name="developer_menu_disabled">Gelişmiş kamera seçeneklerini devredışı bıraktınız</string>
+    <string name="developer_menu_disabled">Gelişmiş kamera seçeneklerini devre dışı bıraktınız</string>
     <string name="pref_camera2_preferences_category_developer">Gelişmiş seçenekler</string>
 </resources>

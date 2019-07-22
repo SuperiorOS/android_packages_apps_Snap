@@ -102,7 +102,7 @@
     <string name="pref_camera_zsl_entry_off">Kapalı</string>
     <string name="pref_camera_zsl_entry_on">Açık</string>
     <!-- The message is shown in toast when HDR or scene mode is enabled -->
-    <string name="hdr_enable_message">HDR etkin, yalnızca otomatik sahne modu destekleniyor</string>
+    <string name="hdr_enable_message">HDR etkin, yalnızca Otomatik sahne modu destekleniyor</string>
     <string name="scene_enable_message">HDR, Otomatik mod dışında sahne modunda desteklenmiyor</string>
     <!-- Settings screen, Video HDR location dialog choices -->
     <string name="pref_camera_video_hdr_entry_off">Kapalı</string>
@@ -279,7 +279,7 @@
     <!-- Color effect that overexposes and reverses some of the tones. -->
     <string name="pref_camera_coloreffect_entry_solarize">Soluk</string>
     <string name="pref_camera_coloreffect_entry_posterize">Posterize</string>
-    <string name="pref_camera_coloreffect_entry_aqua">Deniz Mavisi</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Deniz mavisi</string>
     <string name="pref_camera_coloreffect_entry_emboss">Kabartma</string>
     <string name="pref_camera_coloreffect_entry_sketch">Çizim</string>
     <string name="pref_camera_coloreffect_entry_neon">Neon</string>
@@ -416,8 +416,8 @@
     <string name="text_tsmakeup_alert_title">Uyarı</string>
     <string name="text_tsmakeup_alert_msg">Yüz güzelliği modu için yüz tarama gereklidir. Devam etmek istiyor musunuz?</string>
     <string name="text_tsmakeup_alert_continue">Devam et</string>
-    <string name="text_tsmakeup_alert_quit">Vazgeç</string>
-    <string name="text_tsmakeup_beautify_toast">Güzelleştir</string>
+    <string name="text_tsmakeup_alert_quit">İptal</string>
+    <string name="text_tsmakeup_beautify_toast">Güzelleştirme</string>
     <string name="all_in_focus">Herşeyi odakla</string>
     <string name="refocus_toast">Son fotoğrafı yeniden odaklamak için buraya dokunun</string>
     <string name="refocus_prompt_message">UbiFocus ile siz her deklanşöre bastığınızda 5 resim çekilir. 5 resim 1 resimde birleştirilir. Sonradan odaklama yapabilirsiniz.</string>
@@ -484,7 +484,7 @@
     <string name="pref_camera2_scene_mode_opti_zoom_instructional_content">Net bir resim elde etmek için yakınlaştırmak istediğinizde OptiZoom kullanın. Daha önce veya resmi çektiğinizde yakınlaştırabilirsiniz.</string>
     <string name="pref_camera2_scene_mode_sports_instructional_content">Spor modu, daha iyi spor veya aksiyon çekimleri yapmanıza yardımcı olur.\n\nFotoğraflarınızı geliştirir, ancak video kaydı üzerinde herhangi bir etkisi yoktur.</string>
     <string name="pref_camera2_scene_mode_hdr_instructional_content">Düşük ışıklı ve arkadan aydınlık sahneler gibi karışık ışık koşullarında olduğunuzda, mümkün olan en iyi fotoğraflar için \"HDR\" yi seçin.</string>
-    <string name="pref_camera2_scene_mode_best_photo_instructional_content">10 fotoğraf çekmenizi sağlar ve aralarından en iyilerini seçebilirsiniz.</string>
+    <string name="pref_camera2_scene_mode_best_photo_instructional_content">10 fotoğraf çekmenizi sağlar ve aralarından en iyilerini seçebilirsiniz(s).</string>
     <string name="pref_camera2_scene_mode_chroma_flash_instructional_content">ChromaFlash ile flaş fotoğraflarınızda ki ışıklandırma, resimlerinizde ki tüm insanlar ve nesneler için optimize edilecektir. Bu özellik sadece arka kamera için geçerlidir.</string>
     <string name="pref_camera2_scene_mode_sharp_photo_instructional_content">Keskin fotoğraf modu sahnedeki hareketten kaynaklanan bulanıklığı veya el hareketi nedeniyle olan bulanıklığı azaltır.</string>
     <string name="pref_camera2_scene_mode_tracking_focus_instructional_content">Fotoğraf veya video çekerken seçilen kişiye veya nesneye izleyip odaklanmasına izin verir. Başlamak için takip edilmesini istediğiniz kişi veya objeyi odak dikdörtgeni içine alınız.</string>
@@ -532,7 +532,7 @@
     <string name="pref_camera_bokeh_mpo_title">Bokeh modu MPO</string>
     <string name="pref_camera_bokeh_mpo_entry_enable">Etkin</string>
     <string name="pref_camera_bokeh_mpo_entry_disable">Devre dışı</string>
-    <string name="pref_camera_bokeh_blur_degree_title">Bokeh bulanıklık değeri</string>
+    <string name="pref_camera_bokeh_blur_degree_title">Bokeh bulanık değeri</string>
     <!-- Default Zoom setting. -->
     <string name="pref_camera_zoom_title">Yakınlaştırma</string>
     <!-- Settings menu, Zoom choices -->
@@ -547,7 +547,7 @@
     <string name="pref_camera_zoom_entry_8x">8x</string>
     <string name="pref_camera_zoom_entry_9x">9x</string>
     <string name="pref_camera_zoom_entry_10x">10x</string>
-    <string name="pref_camera2_bsgc_title">Gülümseme/göz kırpma/ bakış algılama</string>
+    <string name="pref_camera2_bsgc_title">Gülümseme/göz kırpma/bakış algılama</string>
     <string name="pref_camera2_bsgc_entry_enable">Etkin</string>
     <string name="pref_camera2_bsgc_entry_disable">Devre dışı</string>
     <string name="pref_camera2_zsl_title">Sıfır çekim gecikmesi</string>

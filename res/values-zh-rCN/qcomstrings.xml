@@ -103,6 +103,7 @@
     <!-- Default noise reduction setting. Do not translate. -->
     <!-- Settings screen, Select See More title -->
     <!-- Settings screen, see more radio button choices -->
+    <string name="pref_camera_noise_reduction_entry_fast">快</string>
     <!-- see more entry values. Do not translate. -->
     <!-- Default see more setting. Do not translate. -->
     <!-- Settings screen, Select See More title -->
@@ -142,6 +143,7 @@
     <!-- Picture format entry values. Do not translate. -->
     <!-- Settings screen, Picture quality title -->
     <!-- Settings screen, Picture quality dialog radio button choices -->
+    <string name="pref_camera_jpegquality_entry_2">高</string>
     <!-- Default auto histogram setting. Do not translate. -->
     <!-- Settings screen, Select Histogram title -->
     <!-- Settings screen, Histogram radio button choices -->
@@ -167,8 +169,11 @@
     <!-- Continuous shot enable message -->
     <!-- Advanced features enable message -->
     <!-- The alas of CameraActivity for gesture operation -->
+    <string name="pref_camera_tsmakeup_entry_high">高</string>
+    <string name="text_tsmakeup_alert_quit">取消</string>
     <!-- Default Zoom setting. -->
     <!-- Settings menu, Zoom choices -->
+    <string name="pref_camera2_exposure_metering_default">0</string>
     <!-- QCFA Title -->
     <!-- QCFA choices -->
 </resources>

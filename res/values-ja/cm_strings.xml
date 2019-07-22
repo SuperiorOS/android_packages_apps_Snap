@@ -56,7 +56,7 @@
     <string name="pref_camera_scenemode_entry_nightindoor">夜の室内</string>
     <string name="pref_camera_scenemode_entry_oldfilm">古いフィルム</string>
     <string name="pref_camera_scenemode_entry_pet">ペット</string>
-    <string name="pref_camera_scenemode_entry_portrait">肖像画</string>
+    <string name="pref_camera_scenemode_entry_portrait">ポートレート</string>
     <string name="pref_camera_scenemode_entry_snow">雪</string>
     <string name="pref_camera_scenemode_entry_softskin">柔らかい肌</string>
     <string name="pref_camera_scenemode_entry_sports">スポーツ</string>
@@ -75,7 +75,7 @@
     <string name="pref_camera_focusmode_entry_facepriority">顔優先</string>
     <string name="pref_camera_focusmode_entry_fixed">固定</string>
     <string name="pref_camera_focusmode_entry_normal">標準</string>
-    <string name="pref_camera_focusmode_entry_portrait">肖像画</string>
+    <string name="pref_camera_focusmode_entry_portrait">ポートレート</string>
     <string name="pref_camera_focusmode_entry_hyperfocal">過焦点</string>
     <!-- Color effects -->
     <string name="pref_camera_coloreffect_entry_washed">ウォッシュ</string>
@@ -102,7 +102,7 @@
     <!-- Shutter speed -->
     <string name="pref_camera_shutter_speed_title">シャッタースピード</string>
     <!-- Advanced options -->
-    <string name="developer_menu_enabled">高度なカメラのオプションを有効にしました</string>
-    <string name="developer_menu_disabled">高度なカメラのオプションを無効にしました</string>
+    <string name="developer_menu_enabled">高度な設定を有効にしました</string>
+    <string name="developer_menu_disabled">高度な設定を無効にしました</string>
     <string name="pref_camera2_preferences_category_developer">高度な設定</string>
 </resources>

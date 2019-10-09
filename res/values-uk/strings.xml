@@ -16,13 +16,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The name of the Android Camera application. [CHAR LIMIT=16] -->
+    <string name="app_name">Камера</string>
     <!-- The label for the Video Camera activity. [CHAR LIMIT=16] -->
+    <string name="video_camera_label">Відеокамера</string>
     <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+    <string name="details_ms">%1$02d:%2$02d</string>
     <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <!-- Displayed in the title of the dialog for things to do with a picture
              that is to be "set as" (e.g. set as contact photo or set as wallpaper) -->
+    <string name="set_image">Установити фото як</string>
     <!-- Details dialog "OK" button. Dismisses dialog. -->
+    <string name="delete">Видалити</string>
     <!-- String Delete the selected media item(s) [CHAR LIMIT=50] -->
+    <string name="share">Поділитися</string>
+    <string name="share_panorama">Поділитися панорамою</string>
     <!-- The label shown after an image is deleted [CHAR LIMIT=16] -->
     <!-- The label on the button which when clicked will undo a deletion of image [CHAR LIMIT=16]-->
     <!-- String indicating how many media item(s) is(are) selected
